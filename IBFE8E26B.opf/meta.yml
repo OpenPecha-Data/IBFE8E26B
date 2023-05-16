@@ -1,0 +1,18 @@
+id: IBFE8E26B
+default_language: es
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:28:29.953766
+last_modified: 2023-01-04 11:28:29.953778
+source_metadata:
+  collections:
+  - Alak Zenkar Rinpoche
+  - Works of Tibetan Masters
+bases:
+  A581:
+    title: A Brief Presentation of the Nine Vehicles
+    base_file: A581.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
